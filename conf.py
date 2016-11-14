@@ -32,9 +32,11 @@ import sphinx_rtd_theme
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.todo',
-    'sphinxcontrib.images'
-]
+    'sphinx.ext.todo'
+    ]
+
+# 11/14/2016 add this to the list to get an awesome image viewer.  The problem is that ReadTheDocs.org does not support sphinxcontrib.images for some reason
+# After adding this extension just change the ..image to ..image and works like a champ.
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

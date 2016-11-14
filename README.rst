@@ -11,6 +11,6 @@ View these docs live by going to
 Contribute
 ----------
 
-- Issue Tracker: github.com/BrettBurbidge/PhonebookDocs/issues
-- Source Code: github.com/BrettBurbidge/PhonebookDocs
+- Issue Tracker: http://github.com/BrettBurbidge/PhonebookDocs/issues
+- Source Code: http://github.com/BrettBurbidge/PhonebookDocs
 

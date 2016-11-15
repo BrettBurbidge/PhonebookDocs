@@ -20,3 +20,9 @@ Cairs Phonebook's documentation!
 
    server_install
    trouble_shooting
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Cairs Interfacing
+
+   cairs_interfacing

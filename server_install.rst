@@ -8,7 +8,7 @@ This document will help you get |product| installed and running on a Server 2012
 #. IIS Configuration
 #. SQL Configuration
 
-After both phases are complete the |product| will be ready to run. This documentation are developed by using an 2012 r2 DoD image.
+After both phases are complete the |product| will be ready to run. This documentation was developed by using an 2012 r2 DoD image.
 
 IIS Configuration
 -----------------

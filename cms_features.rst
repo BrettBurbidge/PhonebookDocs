@@ -1,5 +1,7 @@
 .. include:: /common/stub-variables.txt
 
+.. _cms-features:
+
 Content Management System Features
 ==================================
 

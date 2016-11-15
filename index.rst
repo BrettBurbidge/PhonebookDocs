@@ -12,10 +12,11 @@ Cairs Phonebook's documentation!
 
    how_search_works
    cms_features
+   
 
 .. toctree::
    :maxdepth: 2
    :caption: Installation Documentation
 
    server_install
-
+   trouble_shooting
